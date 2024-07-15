@@ -13,14 +13,6 @@ I am pursuing a degree in Software Engineering with a strong passion for coding,
 - **Full Backend Development:** Created a comprehensive backend for a project combining features of YouTube and Twitter.
 - **Chat Application:** Designed and implemented a chat application using React and Web-sockets.
 - **Web Development:** Developed several websites using HTML, CSS, JavaScript, Bootstrap, and Tailwind.
-
-## Current Focus
-I am currently working on projects using the MERN stack. My immediate learning goals include mastering Next.js and exploring AI with Python.
-
-## Contact
-You can connect me through my [GitHub profile](https://github.com/saranzafar) where my contact details are mentioned.
-
-## Portfolio
-Check out my portfolio at [saranzafar.github.io](https://saranzafar.github.io).
+- **Mini Desktop Apps** Develop mini desktop apps using electronjs, HTML, CSS and js.
 
 Thanks for visiting my profile! 😊
