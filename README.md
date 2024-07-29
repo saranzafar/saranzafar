@@ -9,10 +9,4 @@ I am pursuing a degree in Software Engineering with a strong passion for coding,
 - **Programming Languages:** C, C++, Python
 - **Other Skills:** Web Scraping, WordPress, electronjs.
 
-## Projects
-- **Full Backend Development:** Created a comprehensive backend for a project combining features of YouTube and Twitter.
-- **Chat Application:** Designed and implemented a chat application using React and Web-sockets.
-- **Web Development:** Developed several websites using HTML, CSS, JavaScript, Bootstrap, and Tailwind.
-- **Mini Desktop Apps** Develop mini desktop apps using electronjs, HTML, CSS and js.
-
 Thanks for visiting my profile! 😊
