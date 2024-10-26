@@ -1,7 +1,7 @@
 # My name is 萨兰 But You can call me Saran 💤
 
 # 💫 About Me:
-I am pursuing a degree in Software Engineering with a strong passion for coding. With almost 2 years of experience in web development, I can make websites using  HTML, CSS, JavaScript, React-js, WordPress and Shopify, I am now focusing on developing projects using Electron-js and Next-js. Future goal AI 👻.<br>
+I am pursuing a degree in Software Engineering with a strong passion for coding. With almost 2 years of experience in web development, I can make websites using  `HTML, CSS, JavaScript, React-js, Vue.js, PHP, WordPress and Shopify`, for Bakend i often use `Nodejs and mongodb` I am now focusing on developing projects using Electron-js and Next-js. Future goal AI 👻.<br>
 
 
 ## 🌐 Socials:
