@@ -1,6 +1,6 @@
 ## My name is 萨兰 But You can call me Saran 💤
 
-I write code, break it sometimes, and then fix it like nothing happened. 😎<br>Always curious, always learning – just a regular human building not-so-regular things.<br><br>Check out my little corner of the web: saranzafar.github.io<br>P.S. Smiles are free, so take one! 😊
+I write code, break it sometimes, and then fix it like nothing happened. 😎<br>Always curious, always learning – just a regular human building not-so-regular things.<br><br>Check out my little corner of the web: [my portfolio](https://saranzafar.github.io)<br>P.S. Smiles are free, so take one! 😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_saran05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saran-zafar-7b9a581a8) 
