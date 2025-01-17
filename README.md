@@ -1,7 +1,6 @@
 ## My name is 萨兰 But You can call me Saran 💤
 
 I write code, break it sometimes, and then fix it like nothing happened. 😎
-<br>Always curious, always learning – just a regular human building not-so-regular things.<br>
 `There are 10 Types of people in this World, those who understand the Binary and those who don't`<br><br>
 Check out my little corner of the web: [my portfolio](https://saranzafar.github.io)<br>P.S. Smiles are free, so take one! 😊
 
