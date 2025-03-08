@@ -2,7 +2,7 @@
 
 I write code, break it sometimes, and then fix it like nothing happened. 😎<br>
 `There are 10 Types of people in this World, those who understand the Binary and those who don't`<br><br>
-Check out my little corner of the web: [my portfolio](https://saranzafar.github.io)<br>P.S. Smiles are free, so take one! 😊
+Check out my little corner of the web: [my portfolio](https://saranzafar.vercel.app)<br>P.S. Smiles are free, so take one! 😊
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_saran05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saran-zafar-7b9a581a8) 
